@@ -1,0 +1,19 @@
+.DS_Store
+.build/
+.swiftpm/
+xcuserdata/
+DerivedData/
+
+# Model nặng / mẫu nghe thử (tải riêng)
+Models/
+listen/
+
+# Repo upstream sea-g2p (clone lại khi cần build xcframework)
+third_party/
+
+# xcframework ~137 MB: build bằng scripts/build_sea_g2p_xcframework.sh
+Packages/SonasiVietnameseKit/Frameworks/CSeaG2P.xcframework/
+
+# Project Xcode sinh bởi XcodeGen (project.yml là nguồn); từ điển g2p 60 MB
+App/SonasiBench/SonasiBench.xcodeproj/
+App/SonasiBench/Resources/sea_g2p.bin

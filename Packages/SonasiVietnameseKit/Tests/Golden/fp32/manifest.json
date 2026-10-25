@@ -1,0 +1,186 @@
+{
+ "precision": "fp32",
+ "voice": "Hải Đăng",
+ "items": [
+  {
+   "i": 0,
+   "text": "Xin chào, tôi là trợ lý dịch thuật của Sonasi.",
+   "phonemes": "sˈin tʃˈaː2w, t̪ˈoj lˌaː2 tʃˈəː6 lˈiɜ zˈi6c twˈə6t̪ kˌuə4 sˈoʊ nˈæsi.",
+   "n_tokens": 59,
+   "n_frames": 34,
+   "eos": true,
+   "codes_sha1": "f12de354a23c3522aee8580d4ba1f7442fa5c875"
+  },
+  {
+   "i": 1,
+   "text": "Cuộc họp bắt đầu lúc 9h30 ngày 24/10/2026 tại tầng 3.",
+   "phonemes": "kˈuə6c hˈɔ6p bˈaɜt̪ ɗˈə2w lˌuɜc tʃˈiɜn zˈəː2 bˈaː mˈyəj fˈuɜt̪ ŋˈa2j hˈaːj mˈyəj bˈoɜn tˈaːɜŋ mˈyə2j nˈam hˈaːj ŋˈi2n xˌoŋ tʃˈam hˈaːj mˈyəj sˈaɜw t̪ˈaː6j t̪ˈə2ŋ bˈaː.",
+   "n_tokens": 144,
+   "n_frames": 64,
+   "eos": true,
+   "codes_sha1": "4574831b990ba4ce58026cb96d96854d40b8a2ee"
+  },
+  {
+   "i": 2,
+   "text": "Doanh thu quý 3 tăng 12% so với cùng kỳ, đạt 1,5 tỷ đồng.",
+   "phonemes": "zwˈe-ɲ tˈu kwˈiɜ bˈaː t̪ˈaŋ mˈyə2j hˈaːj fˈə2n tʃˈam sˈɔ vˌəːɜj kˈu2ŋ kˈi2, ɗˈaː6t̪ mˈo6t̪ fˈəɪ4 nˈam t̪ˈi4 ɗˈo2ŋ.",
+   "n_tokens": 98,
+   "n_frames": 50,
+   "eos": true,
+   "codes_sha1": "c902a20d7e787edf09f6f6c7787249419aa8f1af"
+  },
+  {
+   "i": 3,
+   "text": "Chúng tôi sẽ deploy bản release mới lên server vào thứ Hai.",
+   "phonemes": "tʃˈuɜŋ t̪ˈoj sˌɛ5 dᵻplˈɔɪ bˈaː4n ɹᵻlˈiːs mˈəːɜj lˈen sˈɜːvɚ vˈaː2w tˈyɜ hˈaːj.",
+   "n_tokens": 68,
+   "n_frames": 40,
+   "eos": true,
+   "codes_sha1": "741c0e1d88b4ce43f0c87bb54b7eca3f278e46e5"
+  },
+  {
+   "i": 4,
+   "text": "Giá SP500 hôm nay là 4.200,5 điểm.",
+   "phonemes": "zˈaːɜ ˈɛɜt̪ pˈe nˈam tʃˈam hˈom nˈaj lˌaː2 bˈoɜn ŋˈi2n hˈaːj tʃˈam fˈəɪ4 nˈam ɗˈiɛ4m.",
+   "n_tokens": 74,
+   "n_frames": 43,
+   "eos": true,
+   "codes_sha1": "3c4746258c5c63581e3f57e807c37d9c8997c359"
+  },
+  {
+   "i": 5,
+   "text": "Thế à?",
+   "phonemes": "tˈeɜ ˈaː2.",
+   "n_tokens": 10,
+   "n_frames": 8,
+   "eos": true,
+   "codes_sha1": "b62a1b3e5fa4c659ad27c3e98f500cd099a109a1"
+  },
+  {
+   "i": 6,
+   "text": "Vâng.",
+   "phonemes": "vˈəŋ.",
+   "n_tokens": 5,
+   "n_frames": 7,
+   "eos": true,
+   "codes_sha1": "197524e4f8bf37b67ea887943c442c1c5f5c15e8"
+  },
+  {
+   "i": 7,
+   "text": "Anh có thể gửi lại file báo cáo trước năm giờ chiều được không?",
+   "phonemes": "ˈe-ɲ kˈɔɜ tˈe4 ɣˈy4j lˈaː6j fˈaɪl bˈaːɜw kˈaːɜw tʃˈyəɜc nˈam zˈəː2 tʃˈiɛ2w ɗˌyə6c xˌoŋ?",
+   "n_tokens": 76,
+   "n_frames": 37,
+   "eos": true,
+   "codes_sha1": "b7aebead29e9610d967afd338a1420b319937633"
+  },
+  {
+   "i": 8,
+   "text": "Nhà máy ở Bắc Ninh đang chạy ba ca, mỗi ca tám tiếng.",
+   "phonemes": "ɲˈaː2 mˈaɜj ˈəː4 bˈaɜc nˈiɲ ɗˌaːŋ tʃˈa6j bˈaː kˈaː, mˌo5j kˈaː t̪ˈaːɜm t̪ˈiɛɜŋ.",
+   "n_tokens": 69,
+   "n_frames": 38,
+   "eos": true,
+   "codes_sha1": "175a6bea40312e90bcd858201adc0ef12e307f6f"
+  },
+  {
+   "i": 9,
+   "text": "Hệ thống MES ghi nhận tỉ lệ lỗi giảm còn 0,8 phần trăm.",
+   "phonemes": "hˈe6 tˈoɜŋ mˈəː2 ˈɛ ˈɛɜt̪ ɣˈi ɲˈə6n t̪ˈi4 lˈe6 lˈo5j zˈaː4m kˌɔ2n xˌoŋ fˈəɪ4 t̪ˈaːɜm fˈə2n tʃˈam.",
+   "n_tokens": 85,
+   "n_frames": 47,
+   "eos": true,
+   "codes_sha1": "a0e04899f7f50297ef62f7c27f1c0e7d31025543"
+  },
+  {
+   "i": 10,
+   "text": "Đề nghị mọi người tắt micro khi không phát biểu.",
+   "phonemes": "ɗˈe2 ŋˈi6 mˌɔ6j ŋˈyə2j t̪ˈaɜt̪ mˈaɪkɹoʊ xˌi xˌoŋ fˈaːɜt̪ bˈiɛ4w.",
+   "n_tokens": 57,
+   "n_frames": 32,
+   "eos": true,
+   "codes_sha1": "05b348d2515ca3ad55fcddf78d6db65ae970351b"
+  },
+  {
+   "i": 11,
+   "text": "Theo kế hoạch, giai đoạn một sẽ hoàn thành vào cuối tháng mười hai.",
+   "phonemes": "tˈɛw kˈeɜ hwˈe-6c, zˈaːj ɗwˈaː6n mˈo6t̪ sˌɛ5 hwˈaː2n tˈe-2ɲ vˈaː2w kˈuəɜj tˈaːɜŋ mˈyə2j hˈaːj.",
+   "n_tokens": 82,
+   "n_frames": 40,
+   "eos": true,
+   "codes_sha1": "0a6ecceb778732fbdbe1ba143db469560579310b"
+  },
+  {
+   "i": 12,
+   "text": "Khách hàng Nhật Bản yêu cầu báo giá bằng yên và đô la Mỹ.",
+   "phonemes": "xˈe-ɜc hˈaː2ŋ ɲˈə6t̪ bˈaː4n ˈiɛw kˈə2w bˈaːɜw zˈaːɜ bˈa2ŋ ˈiɛn vˌaː2 ɗˈo lˈaː mˈi5.",
+   "n_tokens": 74,
+   "n_frames": 32,
+   "eos": true,
+   "codes_sha1": "5fad236493219def484e335730acf64044fb356f"
+  },
+  {
+   "i": 13,
+   "text": "Tôi đồng ý với ý kiến của chị Lan [cười] nhưng cần thêm số liệu.",
+   "phonemes": "t̪ˈoj ɗˈo2ŋ ˈiɜ vˌəːɜj ˈiɜ kˈiɛɜn kˌuə4 tʃˈi6 lˈaːn <|emotion_1|> ɲˌyŋ kˈə2n tˈem sˈoɜ lˈiɛ6w.",
+   "n_tokens": 73,
+   "n_frames": 46,
+   "eos": true,
+   "codes_sha1": "75fe1009791d855a39343e7378b9a7b506e4144a"
+  },
+  {
+   "i": 14,
+   "text": "Email liên hệ là support@sonasi.app, số điện thoại 0912 345 678.",
+   "phonemes": "ˈiːmeɪl lˈiɛn hˈe6 lˌaː2 səpˈɔːɹt ˈaː kˈɔ2ŋ sˈɔn ˈaː sˈi tʃˈəɜm ˈæp, sˈoɜ ɗˈiɛ6n twˈaː6j xˌoŋ tʃˈiɜn mˈo6t̪ hˈaːj, bˈaː bˈoɜn nˈam, sˈaɜw bˈa4j t̪ˈaːɜm.",
+   "n_tokens": 132,
+   "n_frames": 83,
+   "eos": true,
+   "codes_sha1": "6c365f7201db78ad1e8225533189fd151464f6bf"
+  },
+  {
+   "i": 15,
+   "text": "Một, hai, ba, bốn, năm.",
+   "phonemes": "mˈo6t̪, hˈaːj, bˈaː, bˈoɜn, nˈam.",
+   "n_tokens": 29,
+   "n_frames": 22,
+   "eos": true,
+   "codes_sha1": "994f4ad519f35f731800acfa685cc29de5ba8b98"
+  },
+  {
+   "i": 16,
+   "text": "Mô hình chạy hoàn toàn trên thiết bị, không cần kết nối mạng.",
+   "phonemes": "mˈo hˈi2ɲ tʃˈa6j hwˈaː2n t̪wˈaː2n tʃˈen tˈiɛɜt̪ bˌi6, xˌoŋ kˈə2n kˈeɜt̪ nˈoɜj mˈaː6ŋ.",
+   "n_tokens": 73,
+   "n_frames": 35,
+   "eos": true,
+   "codes_sha1": "051356e7b69be31bc4b5feac30a75b6c8d9c0dc6"
+  },
+  {
+   "i": 17,
+   "text": "Xin lỗi, anh nói chậm lại một chút được không ạ?",
+   "phonemes": "sˈin lˈo5j, ˈe-ɲ nˈɔɜj tʃˈə6m lˈaː6j mˈo6t̪ tʃˈuɜt̪ ɗˌyə6c xˌoŋ ˈaː6?",
+   "n_tokens": 62,
+   "n_frames": 31,
+   "eos": true,
+   "codes_sha1": "3f21b1913c9ed6d3524b61f2fe7464014555f39e"
+  },
+  {
+   "i": 18,
+   "text": "Tổng chi phí dự kiến khoảng 2,35 triệu đô, đã bao gồm VAT 10%.",
+   "phonemes": "t̪ˈo4ŋ tʃˈi fˈiɜ zˈy6 kˈiɛɜn xwˌaː4ŋ hˈaːj fˈəɪ4 bˈaː lˈam tʃˈiɛ6w ɗˈo, ɗˌaː5 bˈaːw ɣˈo2m vˈe ˈaː t̪ˈe mˈyə2j fˈə2n tʃˈam.",
+   "n_tokens": 106,
+   "n_frames": 57,
+   "eos": true,
+   "codes_sha1": "c6d8461374d7fa9fb912cea3ecc790377ac58466"
+  },
+  {
+   "i": 19,
+   "text": "Cảm ơn mọi người đã tham dự buổi họp hôm nay. Hẹn gặp lại tuần sau!",
+   "phonemes": "kˈaː4m ˈəːn mˌɔ6j ŋˈyə2j ɗˌaː5 tˈaːm zˈy6 bˈuə4j hˈɔ6p hˈom nˈaj. hˈɛ6n ɣˈa6p lˈaː6j t̪wˈə2n sˈaw!",
+   "n_tokens": 87,
+   "n_frames": 42,
+   "eos": true,
+   "codes_sha1": "3bb1683f4eeb0e3469898cd71ed59d897a0d140e"
+  }
+ ]
+}

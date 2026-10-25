@@ -1,0 +1,44 @@
+name: SonasiBench
+options:
+  bundleIdPrefix: app.sonasi
+  deploymentTarget:
+    iOS: "17.0"
+packages:
+  SonasiVietnameseKit:
+    path: ../../Packages/SonasiVietnameseKit
+targets:
+  SonasiBench:
+    type: application
+    platform: iOS
+    sources:
+      - path: Sources
+      - path: Resources
+      # Model int8 + codec đóng gói nguyên thư mục (giữ .data cạnh .onnx).
+      - path: ../../Models/onnx_int8
+        type: folder
+        buildPhase: resources
+      - path: ../../Models/codec
+        type: folder
+        buildPhase: resources
+    dependencies:
+      - package: SonasiVietnameseKit
+        product: SonasiVietnameseKit
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: app.sonasi.bench
+        CODE_SIGN_STYLE: Automatic
+        # Chọn Team của bạn trong Xcode → Signing & Capabilities (hoặc điền DEVELOPMENT_TEAM ở đây).
+        DEVELOPMENT_TEAM: ""
+        SWIFT_VERSION: "6.0"
+        GENERATE_INFOPLIST_FILE: YES
+        INFOPLIST_KEY_UILaunchScreen_Generation: YES
+        INFOPLIST_KEY_CFBundleDisplayName: SonasiBench
+        TARGETED_DEVICE_FAMILY: "1"
+        SWIFT_STRICT_CONCURRENCY: minimal
+schemes:
+  SonasiBench:
+    build:
+      targets:
+        SonasiBench: all
+    run:
+      config: Release   # benchmark phải chạy Release, Debug làm phần Swift chậm giả tạo
